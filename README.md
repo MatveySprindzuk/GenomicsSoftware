@@ -1,2 +1,2 @@
 # GenomicsSoftware
-software for processing tuberculosis whole genome data. interface to the BWA, VarScan, SamTools etc.
+Software for processing tuberculosis whole genome data. Python GTK Interface to the SRA-Toolkit, BWA, VarScan, SamTools, etc. In development. That is a public alpha version. For teaching/learning purposes.
